@@ -30,6 +30,4 @@ a {
 /* Align the bullets */
 ul {
   list-style-position: inside;
-  padding-left: 0;
-  margin-left: 20px;
 }
