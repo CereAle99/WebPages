@@ -1,9 +1,17 @@
 /* style.css */
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #9dd3d2;
   }
   
   h1 {
-    color: #333;
+    color: #3c0682;
+    text-align: center;
+  }
+
+  p {
+    color: #000000;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
   }
